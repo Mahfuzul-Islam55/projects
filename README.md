@@ -1,66 +1,33 @@
 
-# Projects
-
-Here are all the projects name ,brief description, used stack and github link.
+# Some more Projects
 
 
 
 
+**Learning Portal Application:**
 
-
-
-
-
-
-
-
-
-
-
-Student Portal Application:
-This is a student portal website like coursera.  
+This is a student portal website like **coursera** where a student can watch videos,attend in quizzes,submit assignment etc. and the admin can also check the progress of the student regarding this.
 
 **Client:** NextJS, Redux Toolkit,Typescript, TailwindCSS,Json-Server
 
-**Server:** Node, Express
-
 [![Source Code](https://github.com/Mahfuzul-Islam55/student-portal-application)](https://github.com/Mahfuzul-Islam55/student-portal-application)
 
-**Client:** React, Redux, TailwindCSS
 
-**Server:** Node, Express
-Job Finder Application:
+**Task Manager Application:** 
 
-This is Job Finder Application
+This a **Jira** clone type application where we can assign task to any member any specific project, can check task status like pending or completed etc.
 
-[![Source Code](https://github.com/Mahfuzul-Islam55/job-finder-application)](https://github.com/Mahfuzul-Islam55/job-finder-application)
+[![Source Code](https://github.com/Mahfuzul-Islam55/task-manager)](https://github.com/Mahfuzul-Islam55/task-manager)
 
-**Client:** React, Redux, TailwindCSS
+**Client:** NextJS, Redux Toolkit, JSON-Server
 
-**Server:** Node, Express
+**Blog Website:**
+This is Blog Website where we can create,save,delete,edit blog. See the details blog and the related blog etc. 
 
-Chat Application:
-This is chat Application project. 
-
-[![Source Code](https://github.com/Mahfuzul-Islam55/chatApp)](https://github.com/Mahfuzul-Islam55/chatApp)
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
-Blog Website:
-This is Blog Website Project 
+**Client:** NextJS, Redux, JSON-Server
 
 [![Source Code](https://github.com/Mahfuzul-Islam55/Blog-Application)](https://github.com/Mahfuzul-Islam55/Blog-Application)
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
-Video Website Project:
-This is video website project
-
-[![Source Code](https://github.com/Mahfuzul-Islam55/Video-Website)](https://github.com/Mahfuzul-Islam55/Video-Website)
 
 
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
 
 
